@@ -1,0 +1,18 @@
+Juventus,AC Milan,Inter,Udinese,Sampdoria,US Palermo,Messina Peloro,AS Roma,AS Livorno,Reggina,Lecce,Cagliari Calcio,Lazio,AC Siena,Chievo Verona,Fiorentina,Bologna,Parma,Brescia,Atalanta BC
+Inter,AS Roma,AC Milan,Chievo Verona,US Palermo,AS Livorno,Parma,Empoli,Fiorentina,Ascoli,Udinese,Sampdoria,Reggina,Cagliari Calcio,AC Siena,Lazio,Messina Peloro,Lecce,Treviso,Juventus
+Inter,AS Roma,Lazio,AC Milan,US Palermo,Fiorentina,Empoli,Atalanta BC,Sampdoria,Udinese,AS Livorno,Parma,Catania,Reggina,AC Siena,Torino,Cagliari Calcio,Chievo Verona,Ascoli,Messina Peloro
+Inter,AS Roma,Juventus,Fiorentina,AC Milan,Sampdoria,Udinese,SSC Napoli,Atalanta BC,Genoa,US Palermo,Lazio,AC Siena,Cagliari Calcio,Torino,Reggina,Catania,Empoli,Parma,AS Livorno
+Inter,Juventus,AC Milan,Fiorentina,Genoa,AS Roma,Udinese,US Palermo,Cagliari Calcio,Lazio,Atalanta BC,SSC Napoli,Sampdoria,AC Siena,Catania,Chievo Verona,Bologna,Torino,Reggina,Lecce
+Inter,AS Roma,AC Milan,Sampdoria,US Palermo,SSC Napoli,Juventus,Parma,Genoa,Bari,Fiorentina,Lazio,Catania,Chievo Verona,Udinese,Cagliari Calcio,Bologna,Atalanta BC,AC Siena,AS Livorno
+AC Milan,Inter,SSC Napoli,Udinese Calcio,Lazio,AS Roma,Juventus,US Palermo,Fiorentina,Genoa,Chievo Verona,Parma,Catania,Cagliari Calcio,Cesena,Bologna,Lecce,Sampdoria,Brescia,Bari
+Juventus,AC Milan,Udinese Calcio,Lazio,SSC Napoli,Inter,AS Roma,Parma,Bologna,Chievo Verona,Catania,Atalanta BC,Fiorentina,AC Siena,Cagliari Calcio,US Palermo,Genoa,Lecce,Novara,Cesena
+Juventus,SSC Napoli,AC Milan,Fiorentina,Udinese Calcio,AS Roma,Lazio,Catania,Inter,Parma,Cagliari Calcio,Chievo Verona,Bologna,Sampdoria,Atalanta BC,Torino,Genoa,US Palermo,AC Siena,Pescara
+Juventus,AS Roma,SSC Napoli,Fiorentina,Inter,Parma,Torino,AC Milan,Lazio,Hellas Verona,Atalanta BC,Sampdoria,Udinese Calcio,Genoa,Cagliari Calcio,Chievo Verona,Sassuolo,Catania,Bologna,AS Livorno
+Juventus,AS Roma,Lazio,Fiorentina,SSC Napoli,Genoa,Sampdoria,Inter,Torino,AC Milan,US Palermo,Sassuolo,Hellas Verona,Chievo Verona,Empoli,Udinese Calcio,Atalanta BC,Cagliari Calcio,Cesena,Parma
+Juventus,SSC Napoli,AS Roma,Inter,Fiorentina,Sassuolo,AC Milan,Lazio,Chievo Verona,Genoa,Empoli,Torino,Atalanta BC,Bologna,Sampdoria,US Palermo,Udinese Calcio,Carpi,Frosinone,Hellas Verona
+Juventus,AS Roma,SSC Napoli,Atalanta BC,Lazio,AC Milan,Inter,Fiorentina,Torino,Sampdoria,Cagliari Calcio,Sassuolo,Udinese Calcio,Chievo Verona,Bologna,Genoa,Crotone,Empoli,US Palermo,Pescara
+Juventus,SSC Napoli,AS Roma,Inter,Lazio,AC Milan,Atalanta BC,Fiorentina,Torino,Sampdoria,Sassuolo,Genoa,Chievo Verona,Udinese Calcio,Bologna,Cagliari Calcio,SPAL,Crotone,Hellas Verona,Benevento
+Juventus,SSC Napoli,Atalanta BC,Inter,AC Milan,AS Roma,Torino,Lazio,Sampdoria,Bologna,Sassuolo,Udinese Calcio,SPAL,Parma,Cagliari Calcio,Fiorentina,Genoa,Empoli,Frosinone,Chievo Verona
+Juventus,Inter,Atalanta BC,Lazio,AS Roma,AC Milan,SSC Napoli,Sassuolo,Hellas Verona,Fiorentina,Parma,Bologna,Udinese Calcio,Cagliari Calcio,Sampdoria,Torino,Genoa,Lecce,Brescia,SPAL
+Inter,AC Milan,Atalanta BC,Juventus,SSC Napoli,Lazio,AS Roma,Sassuolo,Sampdoria,Hellas Verona,Genoa,Bologna,Fiorentina,Udinese Calcio,Spezia Calcio,Cagliari Calcio,Torino,Benevento,Crotone,Parma
+AC Milan,Inter,SSC Napoli,Juventus,Lazio,AS Roma,Fiorentina,Atalanta BC,Hellas Verona,Torino,Sassuolo,Udinese Calcio,Bologna,FC Empoli,Sampdoria,Spezia Calcio,Salernitana,Cagliari Calcio,Genoa,Venezia
